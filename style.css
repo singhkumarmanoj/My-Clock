@@ -13,3 +13,9 @@ body{
     font-family: Orbitron;
     letter-spacing: 7px;
 }
+small{
+    color:aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
